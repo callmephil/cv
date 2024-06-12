@@ -38,12 +38,6 @@ Experienced and versatile Full Stack Developer with a strong focus on Flutter an
 - Developed and maintained beginner courses.
 - Reviewed student exercises and assisted in workshops.
 
-## Personal Projects and Achievements
-- Acquired knowledge in various programming languages: SQL, C/C++, C#, Lua.
-- Published and maintained SunwellCore, now a foundational element of the AzerothCore community.
-- Authored C# applications to automate workflow for a team of 6, enhancing efficiency by 10x.
-- Actively participated in the open-source community, contributing to the evolution of the modding community around the WoW universe, impacting over 10k players.
-
 ## Projects
 - **T-Mabsouta, PolarStork** (2023-Present): Lead Flutter Developer
 - **Pipette, Freelance** (2022-2023): Intermediate Flutter Developer / PO
